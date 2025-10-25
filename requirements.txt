@@ -1,5 +1,11 @@
 langchain
 langchain-openai
 langchain_community
-sentence-transformers
 faiss-cpu
+langchain_huggingface
+langchain_core
+langchain_google_firestore
+firebase_admin
+sentence-transformers
+flask
+google-auth
