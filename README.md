@@ -102,7 +102,7 @@ The application follows a client-server architecture with the following componen
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-rag-assistant.git
+git clone https://github.com/mohamedazizbalti/rag-application.git
 cd ai-rag-assistant
 ```
 
